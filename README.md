@@ -15,7 +15,7 @@ Hi, I'm **Ritesh Ghimire**, an experienced **Full-Stack Web Developer** and **So
 
 Currently working toward a **Master's in Computer Science** at Maharishi International University, I have **10+ years** of experience, leading web development projects for high-traffic media sites and working as an educator and mentor.
 
-- 🌱 **Learning**: Cloud Computing, Web Application Architecture
+- 🌱 **Learning**: Cloud Computing, Web Application Architecture, Algorithms
 - 👨‍🏫 **Teaching**: Mentor at Broadway Infosys, Lecturer at Phoenix College
 - 💻 **Skills**: PHP, JavaScript, Laravel, React, MySQL, AWS, Git, and more
 - 🎥 **YouTube**: [Let's Try This](https://www.youtube.com/c/LetsTryThis)
