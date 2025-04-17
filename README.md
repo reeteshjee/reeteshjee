@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;%20Software%20Engineer;%20Educator;%20YouTuber;%20Security+Enthusiast;&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;%20Software%20Engineer;%20Educator;%20YouTuber;%20Trainer;&center=true&width=500&height=40" />
 </p>
 
 ---
