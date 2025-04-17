@@ -4,29 +4,34 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Educator+%7C+YouTuber+%7C+Security+Enthusiast;PHP%20%7C%20Laravel%20%7C%20React%20%7C%20WordPress;Let's%20Build%20Something%20Awesome!&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;%20Software%20Engineer;%20Educator;%20YouTuber;%20Security+Enthusiast;&center=true&width=500&height=40" />
 </p>
 
 ---
 
-### 👋 About Me
+### 👋 **About Me**
 
-I'm **Ritesh Ghimire**, a passionate full-stack web developer, educator, and open-source contributor from Nepal 🇳🇵.
+Hi, I'm **Ritesh Ghimire**, an experienced **Full-Stack Web Developer** and **Software Engineer** with a passion for building scalable applications, automating workflows, and creating programming tutorials.
 
-- 🔭 **10+ years of experience** in building scalable, high-traffic applications
-- 💼 Former **Team Lead** at *Kantipur Publications Ltd*  
-- 📚 Lecturer at *Phoenix College of Management* & *Trainer at Broadway Infosys*
-- 🎥 YouTube: [Let's Try This](https://www.youtube.com/c/LetsTryThis)
-- 📝 Blogger at: [https://www.youthsforum.com](https://www.youthsforum.com)
-- 💬 I love sharing knowledge & helping new devs grow
+Currently working toward a **Master's in Computer Science** at Maharishi International University, I have **10+ years** of experience, leading web development projects for high-traffic media sites and working as an educator and mentor.
+
+- 🌱 **Learning**: Cloud Computing, Web Application Architecture
+- 👨‍🏫 **Teaching**: Mentor at Broadway Infosys, Lecturer at Phoenix College
+- 💻 **Skills**: PHP, JavaScript, Laravel, React, MySQL, AWS, Git, and more
+- 🎥 **YouTube**: [Let's Try This](https://www.youtube.com/c/LetsTryThis)
 
 ---
 
-### 🧠 Skills & Expertise
+### 🧠 **Skills & Technologies**
 
 ```plaintext
-Languages      : PHP, JavaScript, HTML5, CSS3, MySQL, Bash
-Frameworks     : Laravel, CodeIgniter, Phalcon, ReactJS, jQuery
-CMS            : WordPress (themes, plugins, optimization)
-Tools & DevOps : Git, Apache, Nginx, VS Code, JIRA, cPanel, Linux
-Concepts       : API Integration, OOP, MVC, Web Security, SEO, REST, CI/CD
+Languages       : PHP, JavaScript, HTML5, CSS3, MySQL, PostgreSQL, Redis, SQLite
+Web Technologies: HTML, CSS, TailwindCSS, Bootstrap, Angular, jQuery
+Frameworks      : Laravel, CodeIgniter, WordPress, Phalcon, ReactJS
+Web Services    : REST APIs, SPA (Single Page Apps)
+Servers         : Nginx, Apache
+Design Patterns : Singleton, Factory Method, Abstract Factory, MVC
+Databases       : MySQL, PostgreSQL, Redis, SQLite
+Tools           : GitHub, Git, Postman, Swagger, Insomnia, Visual Studio, JIRA
+Platforms       : AWS, Linux, MacOS
+Methodologies   : Agile, SDLC
