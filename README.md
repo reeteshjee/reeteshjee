@@ -25,7 +25,7 @@ Currently working toward a **Master's in Computer Science** at Maharishi Interna
 ### 🧠 **Skills & Technologies**
 
 ```plaintext
-Languages       : PHP, JavaScript, HTML5, CSS3, MySQL, PostgreSQL, Redis, SQLite
+Languages       : PHP, JavaScript
 Web Technologies: HTML, CSS, TailwindCSS, Bootstrap, Angular, jQuery
 Frameworks      : Laravel, CodeIgniter, WordPress, Phalcon, ReactJS
 Web Services    : REST APIs, SPA (Single Page Apps)
